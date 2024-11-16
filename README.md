@@ -35,4 +35,4 @@ This is a demo mobile application built with **Flutter** to demonstrate efficien
 
 ## Download
 Click the link below to download and test the app:  
-[Download Demo App]
+[https://www.mediafire.com/file/02myxo7wlogdg5x/basit_demo_splenify.apk/file]
